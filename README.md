@@ -46,27 +46,8 @@ I'm a backend-focused software engineer with strong experience in building scala
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tikarammardi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tikarammardi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
 
----
 
-## 💡 What I'm Working On
-
-```javascript
-const tikaram = {
-    code: ["Go", "JavaScript", "TypeScript", "Python", "C++"],
-    focus: ["Backend APIs", "System Design", "Developer Tooling"],
-    architecture: ["Microservices", "RESTful APIs", "Event-Driven"],
-    databases: ["PostgreSQL", "MongoDB", "Redis"],
-    infrastructure: ["Docker", "Kubernetes", "Proxmox"],
-    currentlyLearning: ["Distributed Systems", "Cloud Native", "IoT Protocols"],
-    askMeAbout: ["Backend Development", "API Design", "Containerization", "Databases"]
-};
-```
-
----
 
 ## 🤝 Connect With Me
 
