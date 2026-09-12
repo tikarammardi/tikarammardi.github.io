@@ -42,8 +42,10 @@ I'm a backend-focused software engineer with strong experience in building scala
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tikarammardi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tikarammardi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
+
+  <img  src="https://github-stats-extended.vercel.app/api?username=tikarammardi&show_icons=true&theme=transparent&hide_rank=true" alt="GitHub Stats" height="170"/>
+  <img   src="https://github-stats-extended.vercel.app/api/top-langs/?username=tikarammardi&size_weight=0.5&count_weight=0.5&theme=transparent&layout=donut" alt="Top Languages" height="170" />
+
 </div>
 
 
