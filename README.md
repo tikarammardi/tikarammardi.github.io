@@ -16,6 +16,7 @@ I'm a backend-focused software engineer with strong experience in building scala
 - 🖥️ Managing virtualized infrastructure with **Proxmox**
 - 💼 Portfolio: [tikarammardi.me](https://tikarammardi.me)
 
+
 ---
 
 ## 🛠️ Tech Stack
@@ -69,8 +70,6 @@ I'm a backend-focused software engineer with strong experience in building scala
 
 <div align="center">
 
-**"Clean code, efficient systems, automated workflows"**
-
-<i>⭐️ From [tikarammardi](https://github.com/tikarammardi)</i>
+**"What I cannot create, I do not understand"** - Richard Feynman
 
 </div>
